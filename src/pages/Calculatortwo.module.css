@@ -1,0 +1,19 @@
+.main {
+  padding-top: 100px;
+  background-color: black;
+  height: 100vh;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.wrapper {
+  background-color: #fff;
+  width: 400px;
+  border-radius: 16px;
+}
+
+.row {
+  display: flex;
+}
