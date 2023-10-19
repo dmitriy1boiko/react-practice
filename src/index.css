@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;900&display=swap');
+*{
+  font-family: 'Roboto', sans-serif;
+  font-size: 18px;
+}
+body {
+  margin: 0;
+  
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+button {
+  margin: 5px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  color: #262834;
+  font-weight: 500;
+}
+
+input:active,
+input:focus,
+button:focus,
+button:active {
+  outline: none;
+}
